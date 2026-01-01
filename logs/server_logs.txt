@@ -1,0 +1,5 @@
+[2026-01-01 10:00:00] INFO: Application Starting...
+[2026-01-01 10:00:05] INFO: Connected to MongoDB successfully.
+[2026-01-01 10:00:05] INFO: Backend Server running on http://localhost:5000
+[2026-01-01 10:05:12] POST /api/auth/register - 201 Created
+[2026-01-01 10:10:45] GET /api/task - 200 OK
