@@ -10,7 +10,9 @@ Prime Task - Full Stack Task Management Application🚀 Project OverviewPrime Ta
 │   │   ├── pages/       # Application views
 │   │   ├── store/       # Redux slices
 │   │   └── utils/       # API and toast helpers
+├──logs/                 # Server & Build log files 
 └── Prime Task.postman_collection.json  # API testing
+
 📡 API EndpointsMethodEndpointDescriptionPOST/api/auth/registerUser registrationPOST/api/auth/loginUser loginGET/api/auth/profileGet user profileGET/api/taskGet all user tasksPOST/api/taskCreate new task⚙️ Getting StartedPrerequisites: Node.js (v14+), MongoDB database.1. Clone the repository:Bashgit clone <repository-url>
 cd prime-trade-task
 2. Backend Setup:Bashcd backend
